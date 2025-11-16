@@ -4,7 +4,7 @@
 
 <p>Thank you for letting me submit this</p>
 
-<strong>This is really cool to do</strong>
+<strong>This is really cool to do all this.</strong>
 <meow>Hope you have another great day!</meow>
 
 - I will reach my goals!
